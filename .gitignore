@@ -1,0 +1,6 @@
+# Ignore venvs and system files
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
